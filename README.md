@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [tweetbotatai](https://tweetbotai.netlify.app/)
 
-- 🌱 I’m currently learning **Laravel, C++, React Native**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://luqmanshaban.com](https://luqmanshaban.com)
 
