@@ -7,7 +7,7 @@
   <a href="https://twitter.com/luqmanshaban01" target="blank"><img src="https://img.shields.io/twitter/follow/luqmanshaban01?logo=twitter&style=for-the-badge" alt="luqmanshaban01" /></a> 
 </p>
 
-- 🔭 I’m currently working on [tweetbotatai](https://tweetbotai.netlify.app/)
+- 🔭 I’m currently working on: [blogAll](https://blogall.netlify.app/),     [swahili Plate Restaurant](https://swahiliplate.netlify.app/)
 
 - 🌱 I’m currently learning **Laravel**
 
