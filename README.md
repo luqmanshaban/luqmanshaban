@@ -7,9 +7,9 @@
   <a href="https://twitter.com/luqmanshaban01" target="blank"><img src="https://img.shields.io/twitter/follow/luqmanshaban01?logo=twitter&style=for-the-badge" alt="luqmanshaban01" /></a> 
 </p>
 
-- 🔭 I’m currently working on: [blogAll](https://blogall.netlify.app/),     [swahili Plate Restaurant](https://swahiliplate.netlify.app/)
+- 🔭 I’m currently working on: [blogAll](https://blogall.netlify.app/),     [HalalBox](https://halalbox.netlify.app/)g
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **AI & ML**
 
 - 👨‍💻 All of my projects are available at [https://luqmanshaban.com](https://luqmanshaban.com)
 
