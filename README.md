@@ -1,4 +1,5 @@
-![Personal Banner](https://github.com/user-attachments/assets/585ba69a-8885-4ef6-b3e4-b91b0d057c25)
+<img width="1584" height="396" alt="Tanelt banner" src="https://github.com/user-attachments/assets/567bfdb0-3200-498e-bb32-0a295ba8086a" />
+
 
 
 <h1 align="center">Hi 👋, I'm Luqman Shaban</h1>
